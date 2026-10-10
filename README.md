@@ -1,0 +1,1 @@
+just Random Projects on Machine Learning including Reinforcement Learning for self-driving car in simulated environment, RL + CNN for snake and apple game, Deep-Q-Learning for optimizing energy consumption via temperature contorl 
